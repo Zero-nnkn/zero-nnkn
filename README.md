@@ -16,7 +16,7 @@
 
 <h2>🏆 Trophis</h2>
 <p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=zero-nnkn&column=-1&rank=SSS,SS,S,AAA,AA,A,B,SECRET&no-bg=true&no-frame=true&theme=onedark" alt="zero-nnkn" />
+<img src="https://github-profile-trophy.vercel.app/?username=zero-nnkn&column=-1&rank=SSS,SS,S,AAA,AA,A,SECRET&no-bg=true&no-frame=true&theme=onedark" alt="zero-nnkn" />
 </p>
 
 
