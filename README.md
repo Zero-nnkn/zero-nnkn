@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyen </h1>
 
-<h3 align="center"> 🔭 I’m currently learning on <a href="https://www.hcmus.edu.vn/"><b> VNUHCM - University of Science </b></a> </h3>
+<h3 align="center"> 🔭 <b> AI Researcher @ <a href="https://cinnamon.ai/en/">Cinnamon AI</a> </b> </h3>
 
 ---
 
