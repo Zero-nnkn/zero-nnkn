@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyen </h1>
 
-<h3 align="center"> 🔭 <b> AI Researcher @ <a href="https://cinnamon.ai/en/">Cinnamon AI</a> </b> </h3>
-
+<h3 align="center"> 🔭 AI Researcher @ <a href="https://cinnamon.ai/en/">Cinnamon AI</a> (as <a href="https://github.com/cin-niko">@cin-niko</a>) </h3>
 ---
 
 <img src="https://komarev.com/ghpvc/?username=zero-nnkn&label=Profile%20views&color=0e75b6&style=flat&" alt="zero-nnkn" />
